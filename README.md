@@ -1,16 +1,35 @@
-# React + Vite
+#  Prodesk IT Shopzone – Sprint 6
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern and responsive e-commerce shopping website developed as part of the **Prodesk IT Sprint 6** project.
 
-Currently, two official plugins are available:
+##  Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+-  Responsive homepage
+-  Product listing and product cards
+-  Product search functionality
+-  Shopping cart functionality
+-  Add/remove products from cart
+-  Product price and total calculation
+-  Responsive design for desktop and mobile
+-  Clean and user-friendly UI
+-  Interactive frontend experience
 
-## React Compiler
+##  Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- HTML5
+- CSS3
+- JavaScript
+- React.js *(if used in your project)*
+- Vite *(if used in your project)*
+- Git & GitHub
 
-## Expanding the Oxlint configuration
+##  Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+```text
+Prodesk_IT_Shopzone_Sprint_6/
+│
+└── sprint6-shopzone/
+    ├── src/
+    ├── public/
+    ├── package.json
+    └── ...
